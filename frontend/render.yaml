@@ -1,0 +1,35 @@
+# Render Deployment Configuration for I-TUTOR Frontend
+# Phase 8 MVP - Streamlit UI
+
+services:
+  - type: web
+    name: i-tutor-frontend
+    env: python
+    plan: free
+    
+    # Build configuration
+    buildCommand: pip install -r requirements.txt
+    
+    # Start command for Streamlit
+    startCommand: streamlit run app_ui.py --server.port=$PORT --server.address=0.0.0.0
+    
+    # Environment variables
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: 1
+      - key: STREAMLIT_SERVER_HEADLESS
+        value: true
+      - key: STREAMLIT_SERVER_ENABLEXSRFPROTECTION
+        value: false
+    
+    # Disk configuration
+    disk:
+      name: i-tutor-data
+      mountPath: /var/data
+      sizeGB: 1
+    
+    # Health check
+    healthCheckPath: /
+    
+    # Timeout
+    maxShutdownDelay: 30
