@@ -1,0 +1,44 @@
+# Render Deployment Configuration for I-TUTOR Frontend
+# Phase 8 MVP - Streamlit UI
+# Root-level configuration for Render deployment
+
+services:
+  - type: web
+    name: i-tutor-frontend
+    env: python
+    plan: free
+    
+    # Build configuration
+    buildCommand: pip install -r requirements-render.txt
+    
+    # Start command for Streamlit
+    # Runs from root directory, frontend/app_ui.py is the entry point
+    startCommand: streamlit run frontend/app_ui.py --server.port=$PORT --server.address=0.0.0.0
+    
+    # Environment variables
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: 1
+      - key: STREAMLIT_SERVER_HEADLESS
+        value: true
+      - key: STREAMLIT_SERVER_ENABLEXSRFPROTECTION
+        value: false
+      - key: STREAMLIT_SERVER_ENABLECORS
+        value: false
+      - key: STREAMLIT_LOGGER_LEVEL
+        value: info
+    
+    # Disk configuration (optional)
+    disk:
+      name: i-tutor-data
+      mountPath: /var/data
+      sizeGB: 1
+    
+    # Health check
+    healthCheckPath: /
+    
+    # Timeout
+    maxShutdownDelay: 30
+    
+    # Predeploy script (optional)
+    # preDeployCommand: python3 -c "from scripts.rag import initialize_rag_system; initialize_rag_system()"
