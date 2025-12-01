@@ -1,0 +1,998 @@
+{
+  "summary": {
+    "total_questions": 188,
+    "unknown_units_count": 128,
+    "unknown_units_percentage": "68.1%",
+    "extraction_quality": {
+      "missing_unit": 128,
+      "missing_year": 0,
+      "missing_course": 0,
+      "missing_question": 0,
+      "missing_source_file": 0,
+      "missing_metadata": 0,
+      "total_issues": 128
+    }
+  },
+  "unknown_units": {
+    "total_unknown": 128,
+    "percentage": "68.1%",
+    "by_source_file": {
+      "contentitemfile_clakugdsd5ubp0a21yb3ktpya.pdf": [
+        {
+          "year": "2019",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2019",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clakuh98y5yyz0a21xi9im3ed.pdf": [
+        {
+          "year": "2019",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2019",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clakuhj8i60j00a21zt1ce8uk (1).pdf": [
+        {
+          "year": "2019",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2019",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2019",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2019",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clakvk25gbdjq0a21e8jdx62j.pdf": [
+        {
+          "year": "2020",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2020",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2020",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clakwt2aohs3q0a21tvadixey.pdf": [
+        {
+          "year": "2019",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2019",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2019",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2019",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2019",
+          "question_number": 5,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clakwthizhuac0a21dqibw26p.pdf": [
+        {
+          "year": "2018",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2018",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2018",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2018",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clakwvrw1i5mz0a21iz0yrz40.pdf": [
+        {
+          "year": "2018",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2018",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2018",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2018",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2018",
+          "question_number": 5,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2018",
+          "question_number": 6,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2018",
+          "question_number": 7,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2018",
+          "question_number": 8,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2018",
+          "question_number": 9,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2018",
+          "question_number": 10,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf": [
+        {
+          "year": "2016",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2016",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2016",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2016",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2016",
+          "question_number": 5,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2016",
+          "question_number": 6,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf": [
+        {
+          "year": "2016",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2016",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2016",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2016",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2016",
+          "question_number": 5,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2016",
+          "question_number": 6,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clal3budhkl470a211zjgp5pf.pdf": [
+        {
+          "year": "2021",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clal3eqnxlabg0a21r9zvqhrd.pdf": [
+        {
+          "year": "2021",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clal4hdbjvanv0a214i0nu4kc.pdf": [
+        {
+          "year": "2021",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_cldh3fknl6mad0b21ljimusaj.pdf": [
+        {
+          "year": "2020",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2020",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_cldh3iyxm6wob0b215nubpfk6 (1).pdf": [
+        {
+          "year": "2021",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_cldh3iyxm6wob0b215nubpfk6.pdf": [
+        {
+          "year": "2021",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2021",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clf11gll92zzh0b21m21dgr5x.pdf": [
+        {
+          "year": "2022",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2022",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2022",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2022",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_cloedanmo0purvu01w17ddkwh.pdf": [
+        {
+          "year": "2022",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2022",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_cloedlw8o0r7qyw014rg25fkd (1).pdf": [
+        {
+          "year": "2022",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2022",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_cloedlw8o0r7qyw014rg25fkd.pdf": [
+        {
+          "year": "2022",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2022",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clp859apw1hypzf01iz7wxq63.pdf": [
+        {
+          "year": "2022",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2022",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2022",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2022",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_cltybudea06psyixvzhkkrsh2.pdf": [
+        {
+          "year": "2023",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clu163wnw0gglflfdcfgo44y7.pdf": [
+        {
+          "year": "2023",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clu175i8w0ht44vrs33j3m160.pdf": [
+        {
+          "year": "2023",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clu6w757o0x0s4vrsekhs0hsb.pdf": [
+        {
+          "year": "2023",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clu709rp116yyyixv32ti32mv.pdf": [
+        {
+          "year": "2023",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clxn6srh41mwcz3opl62pmqxi.pdf": [
+        {
+          "year": "2023",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_clzb2v7d10mgusw7kjmvqonf4.pdf": [
+        {
+          "year": "2023",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2023",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_cmdej4u2g3p03cl0jvl9tyg2m.pdf": [
+        {
+          "year": "2024",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1 (1).pdf": [
+        {
+          "year": "2024",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1.pdf": [
+        {
+          "year": "2024",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_cmdk23ap9ds97xl0po6o1uu0w.pdf": [
+        {
+          "year": "2024",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_cmi473l860zopv101eqwsbdiw.pdf": [
+        {
+          "year": "2024",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ],
+      "contentitemfile_cmi4cr28q120vvf01l9dw0w1t.pdf": [
+        {
+          "year": "2024",
+          "question_number": 1,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 2,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 3,
+          "course": "Tech_Faculty"
+        },
+        {
+          "year": "2024",
+          "question_number": 4,
+          "course": "Tech_Faculty"
+        }
+      ]
+    },
+    "by_year": {
+      "2019": 13,
+      "2020": 5,
+      "2018": 14,
+      "2016": 12,
+      "2021": 20,
+      "2022": 14,
+      "2023": 26,
+      "2024": 24
+    },
+    "by_course": {
+      "Tech_Faculty": 128
+    },
+    "sample_questions": [
+      {
+        "year": "2019",
+        "source_file": "contentitemfile_clakugdsd5ubp0a21yb3ktpya.pdf",
+        "question_preview": "QUESTION ONE – 20 MARKS\n\nStudy the diagram below very carefully. By using VLSM, create the subnets and show where\nthey fit on the interfaces using the...",
+        "metadata": {
+          "university": "KCA_UNI",
+          "faculty": "TECH_FACULTY",
+          "unit_code": "Unknown",
+          "source_type": "past_paper"
+        }
+      },
+      {
+        "year": "2019",
+        "source_file": "contentitemfile_clakugdsd5ubp0a21yb3ktpya.pdf",
+        "question_preview": "QUESTION TWO\n\nA company has considered creating a network for their complex that has just been completed.\nThe building is composed of five floors incl...",
+        "metadata": {
+          "university": "KCA_UNI",
+          "faculty": "TECH_FACULTY",
+          "unit_code": "Unknown",
+          "source_type": "past_paper"
+        }
+      },
+      {
+        "year": "2019",
+        "source_file": "contentitemfile_clakuh98y5yyz0a21xi9im3ed.pdf",
+        "question_preview": "QUESTION ONE – 20 MARKS\na)\nDiscuss the politics surrounding the usage of the electromagnetic frequency spectrum,\nhighlighting the issues surrounding t...",
+        "metadata": {
+          "university": "KCA_UNI",
+          "faculty": "TECH_FACULTY",
+          "unit_code": "Unknown",
+          "source_type": "past_paper"
+        }
+      }
+    ]
+  },
+  "unit_distribution": {
+    "OF250": {
+      "count": 4,
+      "years": [
+        "2019"
+      ],
+      "num_sources": 1,
+      "sources": [
+        "contentitemfile_claktwd6p2x880a21qhmbq4yz.pdf"
+      ]
+    },
+    "Unknown": {
+      "count": 128,
+      "years": [
+        "2016",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "num_sources": 33,
+      "sources": [
+        "contentitemfile_clakugdsd5ubp0a21yb3ktpya.pdf",
+        "contentitemfile_clakuh98y5yyz0a21xi9im3ed.pdf",
+        "contentitemfile_clakuhj8i60j00a21zt1ce8uk (1).pdf"
+      ]
+    },
+    "BBIT106": {
+      "count": 10,
+      "years": [
+        "2019",
+        "2022",
+        "2024"
+      ],
+      "num_sources": 3,
+      "sources": [
+        "contentitemfile_clakughz15v0f0a21hz2qnkzu.pdf",
+        "contentitemfile_clzh3on9x2ofpbni858pdq3h4.pdf",
+        "contentitemfile_cmi4d4r9m1597ve0139qcog9k.pdf"
+      ]
+    },
+    "TAKE800": {
+      "count": 5,
+      "years": [
+        "2016"
+      ],
+      "num_sources": 1,
+      "sources": [
+        "contentitemfile_clal1z47b9fjc0a217un7jjgf.pdf"
+      ]
+    },
+    "KCA001": {
+      "count": 4,
+      "years": [
+        "2023"
+      ],
+      "num_sources": 1,
+      "sources": [
+        "contentitemfile_clu70kgxd10k64vrs6joydvfg.pdf"
+      ]
+    },
+    "TO100": {
+      "count": 4,
+      "years": [
+        "2023"
+      ],
+      "num_sources": 1,
+      "sources": [
+        "contentitemfile_clzh49za34eqtevpqxki4mkvw.pdf"
+      ]
+    },
+    "IF200": {
+      "count": 4,
+      "years": [
+        "2023"
+      ],
+      "num_sources": 1,
+      "sources": [
+        "contentitemfile_cm3mm6t9m3bktdd2ha8166u37.pdf"
+      ]
+    },
+    "BBIT300": {
+      "count": 4,
+      "years": [
+        "2023"
+      ],
+      "num_sources": 1,
+      "sources": [
+        "contentitemfile_cm3msoele17ql5ttezamp1o5w.pdf"
+      ]
+    },
+    "BUSS202": {
+      "count": 8,
+      "years": [
+        "2023",
+        "2024"
+      ],
+      "num_sources": 2,
+      "sources": [
+        "contentitemfile_cm3mti5zm6gt0urtrlbuja88r.pdf",
+        "contentitemfile_cm8d3ye4a0h6i84okrlrmt80o.pdf"
+      ]
+    },
+    "ISO100": {
+      "count": 9,
+      "years": [
+        "2024"
+      ],
+      "num_sources": 2,
+      "sources": [
+        "contentitemfile_cmdg5ct3h000shj19o0cqfjz7.pdf",
+        "contentitemfile_cmi471l2q12t6we01axnxe4ta.pdf"
+      ]
+    },
+    "OF150": {
+      "count": 4,
+      "years": [
+        "2024"
+      ],
+      "num_sources": 1,
+      "sources": [
+        "contentitemfile_cmdjywko23himtpmsq64hk7pa.pdf"
+      ]
+    },
+    "BBIT311": {
+      "count": 4,
+      "years": [
+        "2024"
+      ],
+      "num_sources": 1,
+      "sources": [
+        "contentitemfile_cmdk41inl3hwbtpms7m89c4g1.pdf"
+      ]
+    }
+  },
+  "year_distribution": {
+    "2016": {
+      "count": 17,
+      "unique_units": 1,
+      "units": [
+        "TAKE800"
+      ]
+    },
+    "2018": {
+      "count": 14,
+      "unique_units": 0,
+      "units": []
+    },
+    "2019": {
+      "count": 18,
+      "unique_units": 2,
+      "units": [
+        "BBIT106",
+        "OF250"
+      ]
+    },
+    "2020": {
+      "count": 5,
+      "unique_units": 0,
+      "units": []
+    },
+    "2021": {
+      "count": 20,
+      "unique_units": 0,
+      "units": []
+    },
+    "2022": {
+      "count": 18,
+      "unique_units": 1,
+      "units": [
+        "BBIT106"
+      ]
+    },
+    "2023": {
+      "count": 46,
+      "unique_units": 5,
+      "units": [
+        "BBIT300",
+        "BUSS202",
+        "IF200",
+        "KCA001",
+        "TO100"
+      ]
+    },
+    "2024": {
+      "count": 50,
+      "unique_units": 5,
+      "units": [
+        "BBIT106",
+        "BBIT311",
+        "BUSS202",
+        "ISO100",
+        "OF150"
+      ]
+    }
+  },
+  "recommendations": [
+    {
+      "severity": "HIGH",
+      "issue": "68.1% of questions have 'Unknown' unit code",
+      "cause": "PDF extraction likely failed to capture unit codes from headers/footers",
+      "action": "Review PDF extraction logic - unit codes may be in specific locations",
+      "impact": "Reduces ability to filter questions by unit for RAG system"
+    },
+    {
+      "severity": "MEDIUM",
+      "issue": "Unit codes not extracted from PDFs",
+      "cause": "Extraction script may not be parsing unit code fields correctly",
+      "action": "Manually review a sample of Unknown unit PDFs to identify unit code location",
+      "impact": "Cannot organize questions by curriculum unit"
+    },
+    {
+      "severity": "INFO",
+      "issue": "Duplicate PDFs detected (e.g., file_name.pdf and file_name (1).pdf)",
+      "cause": "Same PDF uploaded/processed multiple times",
+      "action": "Deduplication already handled - keep canonical version with source tracking",
+      "impact": "Resolved - 16 duplicate instances removed"
+    }
+  ]
+}
