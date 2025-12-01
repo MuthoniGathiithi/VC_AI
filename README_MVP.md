@@ -1,8 +1,8 @@
-# I-TUTOR MVP - Intelligent Tutoring System
+#UNI_AI  MVP - Intelligent Tutoring System
 
 ## Overview
 
-I-TUTOR is an intelligent tutoring system for KCA University students, powered by local LLaMA model and past exam papers. The MVP (Minimum Viable Product) includes:
+UNI_AI is an intelligent tutoring system for KCA University students, powered by local LLaMA model and past exam papers. The MVP (Minimum Viable Product) includes:
 
 - **Phase 4**: Local AI Model + MCP Routing
 - **Phase 5**: Main Application with CLI & Tests
@@ -11,7 +11,7 @@ I-TUTOR is an intelligent tutoring system for KCA University students, powered b
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    I-TUTOR Application                      │
+│                    UNI_AI Application                      │
 │                    (app/main.py)                            │
 ├─────────────────────────────────────────────────────────────┤
 │  - get_unit()           - Get questions by unit             │
@@ -484,5 +484,5 @@ For issues or questions:
 
 ---
 
-**Last Updated**: November 30, 2025
+**Last Updated**: DEC 1 , 2025
 **Version**: 0.1.0 (MVP)
