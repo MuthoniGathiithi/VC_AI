@@ -1,0 +1,537 @@
+{
+  "total_original": 188,
+  "total_duplicates_found": 16,
+  "total_duplicate_instances": 16,
+  "duplicate_groups": [
+    {
+      "canonical_index": 40,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2016",
+      "duplicate_indices": [
+        40,
+        46
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+          "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf"
+        ],
+        "years_found": [
+          "2016"
+        ],
+        "all_sources": [
+          {
+            "year": "2016",
+            "source_file": "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+            "question_number": 1,
+            "original_index": 40
+          },
+          {
+            "year": "2016",
+            "source_file": "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf",
+            "question_number": 1,
+            "original_index": 46
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 41,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2016",
+      "duplicate_indices": [
+        41,
+        47
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+          "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf"
+        ],
+        "years_found": [
+          "2016"
+        ],
+        "all_sources": [
+          {
+            "year": "2016",
+            "source_file": "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+            "question_number": 2,
+            "original_index": 41
+          },
+          {
+            "year": "2016",
+            "source_file": "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf",
+            "question_number": 2,
+            "original_index": 47
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 42,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2016",
+      "duplicate_indices": [
+        42,
+        48
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+          "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf"
+        ],
+        "years_found": [
+          "2016"
+        ],
+        "all_sources": [
+          {
+            "year": "2016",
+            "source_file": "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+            "question_number": 3,
+            "original_index": 42
+          },
+          {
+            "year": "2016",
+            "source_file": "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf",
+            "question_number": 3,
+            "original_index": 48
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 43,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2016",
+      "duplicate_indices": [
+        43,
+        49
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+          "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf"
+        ],
+        "years_found": [
+          "2016"
+        ],
+        "all_sources": [
+          {
+            "year": "2016",
+            "source_file": "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+            "question_number": 4,
+            "original_index": 43
+          },
+          {
+            "year": "2016",
+            "source_file": "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf",
+            "question_number": 4,
+            "original_index": 49
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 44,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2016",
+      "duplicate_indices": [
+        44,
+        50
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+          "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf"
+        ],
+        "years_found": [
+          "2016"
+        ],
+        "all_sources": [
+          {
+            "year": "2016",
+            "source_file": "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+            "question_number": 5,
+            "original_index": 44
+          },
+          {
+            "year": "2016",
+            "source_file": "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf",
+            "question_number": 5,
+            "original_index": 50
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 45,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2016",
+      "duplicate_indices": [
+        45,
+        51
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+          "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf"
+        ],
+        "years_found": [
+          "2016"
+        ],
+        "all_sources": [
+          {
+            "year": "2016",
+            "source_file": "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+            "question_number": 6,
+            "original_index": 45
+          },
+          {
+            "year": "2016",
+            "source_file": "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf",
+            "question_number": 6,
+            "original_index": 51
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 66,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2021",
+      "duplicate_indices": [
+        66,
+        70
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_cldh3iyxm6wob0b215nubpfk6 (1).pdf",
+          "contentitemfile_cldh3iyxm6wob0b215nubpfk6.pdf"
+        ],
+        "years_found": [
+          "2021"
+        ],
+        "all_sources": [
+          {
+            "year": "2021",
+            "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6 (1).pdf",
+            "question_number": 1,
+            "original_index": 66
+          },
+          {
+            "year": "2021",
+            "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6.pdf",
+            "question_number": 1,
+            "original_index": 70
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 67,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2021",
+      "duplicate_indices": [
+        67,
+        71
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_cldh3iyxm6wob0b215nubpfk6 (1).pdf",
+          "contentitemfile_cldh3iyxm6wob0b215nubpfk6.pdf"
+        ],
+        "years_found": [
+          "2021"
+        ],
+        "all_sources": [
+          {
+            "year": "2021",
+            "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6 (1).pdf",
+            "question_number": 2,
+            "original_index": 67
+          },
+          {
+            "year": "2021",
+            "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6.pdf",
+            "question_number": 2,
+            "original_index": 71
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 68,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2021",
+      "duplicate_indices": [
+        68,
+        72
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_cldh3iyxm6wob0b215nubpfk6 (1).pdf",
+          "contentitemfile_cldh3iyxm6wob0b215nubpfk6.pdf"
+        ],
+        "years_found": [
+          "2021"
+        ],
+        "all_sources": [
+          {
+            "year": "2021",
+            "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6 (1).pdf",
+            "question_number": 3,
+            "original_index": 68
+          },
+          {
+            "year": "2021",
+            "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6.pdf",
+            "question_number": 3,
+            "original_index": 72
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 69,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2021",
+      "duplicate_indices": [
+        69,
+        73
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_cldh3iyxm6wob0b215nubpfk6 (1).pdf",
+          "contentitemfile_cldh3iyxm6wob0b215nubpfk6.pdf"
+        ],
+        "years_found": [
+          "2021"
+        ],
+        "all_sources": [
+          {
+            "year": "2021",
+            "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6 (1).pdf",
+            "question_number": 4,
+            "original_index": 69
+          },
+          {
+            "year": "2021",
+            "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6.pdf",
+            "question_number": 4,
+            "original_index": 73
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 80,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2022",
+      "duplicate_indices": [
+        80,
+        82
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_cloedlw8o0r7qyw014rg25fkd (1).pdf",
+          "contentitemfile_cloedlw8o0r7qyw014rg25fkd.pdf"
+        ],
+        "years_found": [
+          "2022"
+        ],
+        "all_sources": [
+          {
+            "year": "2022",
+            "source_file": "contentitemfile_cloedlw8o0r7qyw014rg25fkd (1).pdf",
+            "question_number": 1,
+            "original_index": 80
+          },
+          {
+            "year": "2022",
+            "source_file": "contentitemfile_cloedlw8o0r7qyw014rg25fkd.pdf",
+            "question_number": 1,
+            "original_index": 82
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 81,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2022",
+      "duplicate_indices": [
+        81,
+        83
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_cloedlw8o0r7qyw014rg25fkd (1).pdf",
+          "contentitemfile_cloedlw8o0r7qyw014rg25fkd.pdf"
+        ],
+        "years_found": [
+          "2022"
+        ],
+        "all_sources": [
+          {
+            "year": "2022",
+            "source_file": "contentitemfile_cloedlw8o0r7qyw014rg25fkd (1).pdf",
+            "question_number": 2,
+            "original_index": 81
+          },
+          {
+            "year": "2022",
+            "source_file": "contentitemfile_cloedlw8o0r7qyw014rg25fkd.pdf",
+            "question_number": 2,
+            "original_index": 83
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 154,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2024",
+      "duplicate_indices": [
+        154,
+        158
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1 (1).pdf",
+          "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1.pdf"
+        ],
+        "years_found": [
+          "2024"
+        ],
+        "all_sources": [
+          {
+            "year": "2024",
+            "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1 (1).pdf",
+            "question_number": 1,
+            "original_index": 154
+          },
+          {
+            "year": "2024",
+            "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1.pdf",
+            "question_number": 1,
+            "original_index": 158
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 155,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2024",
+      "duplicate_indices": [
+        155,
+        159
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1 (1).pdf",
+          "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1.pdf"
+        ],
+        "years_found": [
+          "2024"
+        ],
+        "all_sources": [
+          {
+            "year": "2024",
+            "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1 (1).pdf",
+            "question_number": 2,
+            "original_index": 155
+          },
+          {
+            "year": "2024",
+            "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1.pdf",
+            "question_number": 2,
+            "original_index": 159
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 156,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2024",
+      "duplicate_indices": [
+        156,
+        160
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1 (1).pdf",
+          "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1.pdf"
+        ],
+        "years_found": [
+          "2024"
+        ],
+        "all_sources": [
+          {
+            "year": "2024",
+            "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1 (1).pdf",
+            "question_number": 3,
+            "original_index": 156
+          },
+          {
+            "year": "2024",
+            "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1.pdf",
+            "question_number": 3,
+            "original_index": 160
+          }
+        ],
+        "duplicate_count": 2
+      }
+    },
+    {
+      "canonical_index": 157,
+      "canonical_unit": "Unknown",
+      "canonical_year": "2024",
+      "duplicate_indices": [
+        157,
+        161
+      ],
+      "merged_sources": {
+        "source_pdfs": [
+          "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1 (1).pdf",
+          "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1.pdf"
+        ],
+        "years_found": [
+          "2024"
+        ],
+        "all_sources": [
+          {
+            "year": "2024",
+            "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1 (1).pdf",
+            "question_number": 4,
+            "original_index": 157
+          },
+          {
+            "year": "2024",
+            "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1.pdf",
+            "question_number": 4,
+            "original_index": 161
+          }
+        ],
+        "duplicate_count": 2
+      }
+    }
+  ],
+  "total_after_deduplication": 172,
+  "questions_removed": 16
+}
